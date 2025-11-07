@@ -76,14 +76,14 @@ lume-eternal-light/
 ---
 
 링크
-GitHub Repository: [https://github.com/사용자명/lume-eternal-light](https://github.com/hyunju010205/lume-eternal-light)
-Live Demo: [https://사용자명.github.io/lume-eternal-light/](https://hyunju010205.github.io/lume-eternal-light/)
+GitHub Repository: [https://github.com//lume-eternal-light](https://github.com/hyunju010205/lume-eternal-light)
+Live Demo: [https://hyunju010205.github.io/lume-eternal-light/](https://hyunju010205.github.io/lume-eternal-light/)
 
 ---
 
 제작자
 양현주 | 기획 · 디자인 · 개발
-이메일: [yourname@email.com](mailto:joo012025@naver.com)
+이메일: [joo012025@naver.com](mailto:joo012025@naver.com)
 
 COPYRIGHT ⓒ 2025 LUMÉ. ALL RIGHTS RESERVED.
 
