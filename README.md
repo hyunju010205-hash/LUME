@@ -3,7 +3,7 @@
 ````markdown
 🌙 LUMÉ | Eternal Light  
 
-*Will you still love me when I'm no longer young and beautiful...*  
+Will you still love me when I'm no longer young and beautiful... 
 
 ---
 
@@ -15,7 +15,7 @@ LUMÉ는 "빛(Eternal Light)"을 모티프로 한 하이엔드 패션 & 뷰티 �
 ---
 
 프로젝트 소개  
-**LUMÉ | Eternal Light**은 "시간이 흘러도 변치 않는 아름다움"을 컨셉으로 제작되었습니다.  
+LUMÉ | Eternal Light**은 "시간이 흘러도 변치 않는 아름다움"을 컨셉으로 제작되었습니다.  
 정적인 이미지가 아닌, 감성적인 브랜드 무드와 부드러운 인터랙션을 통해  
 명품 브랜드의 품격과 감정적 몰입감을 전달합니다.  
 
